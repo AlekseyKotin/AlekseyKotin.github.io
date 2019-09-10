@@ -1,5 +1,5 @@
 $(function () {
-
+    $('#music')[0].volume = 0.2;
     $(window).on('load', function () {
         $('.mainWrap').toggleClass('hiddenItem');
         $('#preloader').toggleClass('hiddenItem');
