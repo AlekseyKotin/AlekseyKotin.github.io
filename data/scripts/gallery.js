@@ -1,4 +1,4 @@
-$(function () {
+$(window).load(function () {
     $('.galleryWrap').css('transition', 'transform '+ 100 +'ms linear');
 
     let mouseY = 0; //Координата Y курсора

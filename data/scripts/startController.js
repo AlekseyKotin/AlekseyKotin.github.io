@@ -1,4 +1,7 @@
-$(function () {
+$(window).load(function () {
+
+    $('#preloader')
+
     window['currentPage'] = 0;
     let galleryScrollIn = false;
     window['lock'] = false;
