@@ -1,6 +1,10 @@
-$(window).load(function () {
+$(function () {
 
-    $('#preloader')
+    window['load'] = false;
+
+    $(window).on('load', function () {
+        console.log('page load');
+    });
 
     window['currentPage'] = 0;
     let galleryScrollIn = false;
@@ -8,7 +12,7 @@ $(window).load(function () {
 
     intro(7000);
 
-
+    
     function intro(time){
         $('body').transition({
             'background-image': 'url(data/img/bg.jpg)'

@@ -605,3 +605,22 @@ header
     border-bottom: 2px solid rgba(255, 77, 90, 1);
     cursor: pointer;
 }
+
+#preloader
+{
+    position: absolute;
+    z-index: 1000;
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loadAnim
+{
+    background-color: red;
+    width: calc(5vw + 5vh);
+    height: calc(5vh + 5vw);
+}
