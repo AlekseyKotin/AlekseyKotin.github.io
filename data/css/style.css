@@ -573,8 +573,18 @@ header
 {
     margin: 10px !important;
     padding: 10px !important;
-    list-style: square  !important;
+    list-style: circle  !important;
     font-size: 1em;
+}
+
+@-moz-document url-prefix()
+{
+    .categoryInfo ul {
+        margin: 10px !important;
+        padding: 10px !important;
+        list-style: square  !important;
+        font-size: 1em;
+    }
 }
 
 .categoryInfo li
