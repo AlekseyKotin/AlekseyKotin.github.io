@@ -8,6 +8,7 @@ $(function () {
         $('.mainDecor').toggleClass('mainDecorAnim');
         $('.mainInfo').toggleClass('mainInfoAnim');
         $('.mainList').toggleClass('mainListAnim');
+        $('#startMask').toggleClass('mainInMask');
 
         window['currentPage'] = 0;
         let galleryScrollIn = false;
