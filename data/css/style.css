@@ -630,6 +630,7 @@ header
     width: 100vw;
     background-color: black;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -637,6 +638,8 @@ header
 .loadAnim
 {
     background-color: rgba(255, 77, 90, 1);
+    position: relative;
+    left:0;
     width: calc(5vw + 5vh);
-    height: calc(5vh + 5vw);
+    height: 1vh;
 }
