@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a67015d8-90cc-4f2e-8b14-10a50a23a535" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/data/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/json/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/json/info.json" afterDir="false" />
-    </list>
+    <list default="true" id="a67015d8-90cc-4f2e-8b14-10a50a23a535" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +19,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/json/info.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -61,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="578" lean-forward="true" selection-start-line="578" selection-end-line="578" />
+            <state relative-caret-position="383">
+              <caret line="575" column="22" selection-start-line="575" selection-start-column="22" selection-end-line="575" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -175,12 +172,12 @@
       <updated>1568104165947</updated>
       <workItem from="1568104168605" duration="11853000" />
       <workItem from="1568118756589" duration="15000" />
-      <workItem from="1568120490210" duration="7494000" />
+      <workItem from="1568120490210" duration="8422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19362000" />
+    <option name="totallyTimeSpent" value="20290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -235,10 +232,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/css/style.css">
+    <entry file="file://$PROJECT_DIR$/data/json/info.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="578" lean-forward="true" selection-start-line="578" selection-end-line="578" />
+        <state relative-caret-position="238">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -249,10 +246,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/json/info.json">
+    <entry file="file://$PROJECT_DIR$/data/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="383">
+          <caret line="575" column="22" selection-start-line="575" selection-start-column="22" selection-end-line="575" selection-end-column="22" />
         </state>
       </provider>
     </entry>
