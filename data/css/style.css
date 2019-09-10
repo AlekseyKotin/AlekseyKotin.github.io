@@ -639,9 +639,8 @@ header
 
 .loadAnim
 {
-    margin-top: 50px;
+    margin-top: 1em;
     background-color: rgba(255, 77, 90, 1);
-
     width: 100vw;
     height: 0.7vh;
     box-sizing: border-box;
