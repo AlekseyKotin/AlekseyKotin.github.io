@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a67015d8-90cc-4f2e-8b14-10a50a23a535" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/data/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/scripts/startController.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/scripts/startController.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,17 +16,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="323">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/scripts/startController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="34">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -52,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="637" column="9" lean-forward="true" selection-start-line="637" selection-start-column="9" selection-end-line="637" selection-end-column="9" />
+            <state relative-caret-position="250">
+              <caret line="612" column="19" lean-forward="true" selection-start-line="612" selection-start-column="19" selection-end-line="612" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -78,9 +78,9 @@
       <list>
         <option value="$PROJECT_DIR$/data/scripts/rain.js" />
         <option value="$PROJECT_DIR$/data/scripts/gallery.js" />
-        <option value="$PROJECT_DIR$/data/scripts/startController.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/data/css/style.css" />
+        <option value="$PROJECT_DIR$/data/scripts/startController.js" />
       </list>
     </option>
   </component>
@@ -155,12 +155,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568104165947</updated>
-      <workItem from="1568104168605" duration="7708000" />
+      <workItem from="1568104168605" duration="7870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7708000" />
+    <option name="totallyTimeSpent" value="7870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -208,24 +208,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/scripts/startController.js">
+    <entry file="file://$PROJECT_DIR$/data/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="250">
+          <caret line="612" column="19" lean-forward="true" selection-start-line="612" selection-start-column="19" selection-end-line="612" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="323">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/css/style.css">
+    <entry file="file://$PROJECT_DIR$/data/scripts/startController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="637" column="9" lean-forward="true" selection-start-line="637" selection-start-column="9" selection-end-line="637" selection-end-column="9" />
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
