@@ -641,10 +641,8 @@ header
 {
     margin-top: 50px;
     background-color: rgba(255, 77, 90, 1);
-    position: absolute;
-    left:0;
+
     width: 100vw;
-    justify-self: flex-start;
     height: 0.7vh;
     box-sizing: border-box;
     box-shadow: 1px 1px 22px 0px rgba(255, 77, 90, 0.8);
