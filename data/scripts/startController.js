@@ -4,6 +4,11 @@ $(function () {
         $('.mainWrap').toggleClass('hiddenItem');
         $('#preloader').toggleClass('hiddenItem');
 
+        $('.mainLogo').toggleClass('mainLogoAnim');
+        $('.mainDecor').toggleClass('mainDecorAnim');
+        $('.mainInfo').toggleClass('mainInfoAnim');
+        $('.mainList').toggleClass('mainListAnim');
+
         window['currentPage'] = 0;
         let galleryScrollIn = false;
         window['lock'] = false;

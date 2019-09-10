@@ -214,10 +214,13 @@ header
     text-shadow: 1px 1px 2px black, 0 0 1em black;
     font-size: 1.2em;
     margin-bottom: 20px;
+    opacity: 0;
+}
 
+.mainListAnim
+{
     animation: startInfo  5s 4s;
     animation-fill-mode: forwards;
-    opacity: 0;
 }
 
 .mainList li
@@ -232,7 +235,10 @@ header
     font-size: 3em;
     letter-spacing: 1em;
     margin-bottom: 20px;
+}
 
+.mainLogoAnim
+{
     animation: startLogo  5s;
     animation-fill-mode: forwards;
     filter: blur(50px);
@@ -258,14 +264,19 @@ header
     width: 40%;
     margin-bottom: 2em;
     opacity: 0;
-    animation: startInfo  5s 3s;
-    animation-fill-mode: forwards;
+
     height: 10px;
 
     box-sizing: border-box;
     border-bottom: 3px solid #FF4D5A;
     border-radius: 0.2vw;
     box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 1);
+}
+
+.mainDecorAnim
+{
+    animation: startInfo  5s 3s;
+    animation-fill-mode: forwards;
 }
 
 
@@ -276,9 +287,14 @@ header
     font-size: 2em;
     letter-spacing: 0.5em;
     color: #FF4D5A;
+
+    opacity: 0;
+}
+
+.mainInfoAnim
+{
     animation: startInfo  5s 4s;
     animation-fill-mode: forwards;
-    opacity: 0;
 }
 
 .mainFooter
