@@ -1,6 +1,6 @@
 $(function () {
 
-    $('.mainWrap').on('load', function () {
+    $(window).on('load', function () {
         $('.mainWrap').toggleClass('hiddenItem');
         $('#preloader').toggleClass('hiddenItem');
 
