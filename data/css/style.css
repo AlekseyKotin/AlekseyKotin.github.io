@@ -12,11 +12,16 @@ html
     -webkit-user-select: none;
 }
 
+@font-face {
+    font-family: Eurostile; 
+    src: url(eurostile.ttf); 
+}
+
 body
 {
     margin: 0px;
     color: white;
-    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Eurostile', sans-serif;
 
     background-image: url(../img/bg.jpg);
 
