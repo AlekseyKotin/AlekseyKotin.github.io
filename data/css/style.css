@@ -1,4 +1,4 @@
-html
+﻿html
 {
     background-color: black;
 
@@ -292,8 +292,6 @@ header
     font-weight: bold;
     font-size: 2em;
     letter-spacing: 0.5em;
-    color: #FF4D5A;
-
     opacity: 0;
 }
 
