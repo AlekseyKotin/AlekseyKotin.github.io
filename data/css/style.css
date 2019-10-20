@@ -293,6 +293,7 @@ header
     font-size: 2em;
     letter-spacing: 0.5em;
     opacity: 0;
+color: white;
 }
 
 .mainInfoAnim
