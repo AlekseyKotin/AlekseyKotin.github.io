@@ -120,7 +120,7 @@ $(function () {
             });
 
             $('.categoryLogo').transition({
-                background: 'url("data/img/'+ id +'.png") center',
+                background: 'url("data/img/'+ id +'.jpg") center',
                 'background-size': 'cover'
             });
         });
