@@ -92,7 +92,7 @@ $(function () {
             });
 
             $('.categoryBackground').transition({
-                background: 'url("data/img/'+ id +'.png") center',
+                background: 'url("data/img/'+ id +'.jpg") center',
                 'background-size': 'cover',
                 opacity: 1,
                 transform: 'scale(1)',
@@ -194,7 +194,7 @@ $(function () {
                 $('.categoryInfo p').html(data[id].additional);
                 $('.categoryWrap').attr("data-collection", id);
                 $('.categoryLogo, .categoryBackground').transition({
-                    'background-image': 'url("data/img/'+ id +'.png")',
+                    'background-image': 'url("data/img/'+ id +'.jpg")',
                 })
             });
         }
