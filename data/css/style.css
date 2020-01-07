@@ -6,12 +6,27 @@
     display: none !important;
 }
 
+*
+{
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+}
+
+@font-face {
+    font-family: Rogan;
+    src: url(Rogan_Thin.otf);
+}
+
 
 body {
     padding: 0;
     margin: 0;
-	font-family: 'Montserrat', sans-serif;
-    color: #fff;
+	/*font-family: 'Montserrat', sans-serif;*/
+    font-family: 'Rogan', sans-serif;
+    font-weight: bold;
+    color: white;
     overflow-x: hidden;
 }
 
@@ -41,7 +56,17 @@ ul {
 .background-image {
     width: 100vw;
     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     /*background-image: linear-gradient(to bottom, #020b16, rgba(0, 0, 0, 0.7), rgba(7, 24, 43, 0.9), rgba(0, 0, 0, 0.9), black);*/
+}
+
+.background-image img {
+    filter: blur(0.1vw);
+    opacity: 0.1;
+    width: 25vw;
+    pointer-events: none;
 }
 
 .rain
@@ -226,6 +251,42 @@ ul {
     margin-left: 2.2vw;
     width: 95vw;
     overflow: hidden;
+}
+
+.about-page {
+    z-index: 100;
+    font-size: 2vw;
+}
+
+.about-wrap {
+    padding: 15vh 10vw;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 2vw;
+}
+
+.about-block a {
+    color: hsl(192, 18%, 49%);
+    text-decoration: none;
+}
+
+.section-name {
+    text-transform: uppercase;
+    letter-spacing: 0.2vw;
+    text-indent: 0.2vw;
+    display: inline-flex;
+}
+
+.section-name::before {
+    width: 0.2em;
+    background: hsl(192, 18%, 49%);
+    content: "";
+    margin-right: 1em;
+}
+
+.info-line {
+    font-size: 0.6em;
+    padding: 0.5vh 0;
 }
 
 .art-page {
